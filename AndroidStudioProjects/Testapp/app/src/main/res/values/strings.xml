@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Testapp</string>
+    <string name="buttonText">Button</string>
+    <string name="example_service_label">Example Service</string>
+</resources>
